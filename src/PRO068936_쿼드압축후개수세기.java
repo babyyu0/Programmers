@@ -2,18 +2,17 @@ import java.util.Arrays;
 
 public class PRO068936_쿼드압축후개수세기 {
     private static int[][] arr;
-    private static int[] count;
+    private static int[] answer;
 
     public static void main(String[] args) {
         arr = new int[][]{{1, 1, 1, 1, 1, 1, 1, 1}, {0, 1, 1, 1, 1, 1, 1, 1}, {0, 0, 0, 0, 1, 1, 1, 1}, {0, 1, 0, 0, 1, 1, 1, 1}, {0, 0, 0, 0, 0, 0, 1, 1}, {0, 0, 0, 0, 0, 0, 0, 1}, {0, 0, 0, 0, 1, 0, 0, 1}, {0, 0, 0, 0, 1, 1, 1, 1}};
         // arr = new int[][]{{1,1,0,0},{1,0,0,0},{1,0,0,1},{1,1,1,1}};  // 테스트케이스
         // arr = new int[][]{{1,1},{1,1}};  // 테스트케이스
-        System.out.println(solution());
+        System.out.println(Arrays.toString(solution()));
     }
 
     public static int[] solution() {
-        int[] answer = {};
-        count = new int[2];
+        answer = new int[2];
         findZip(arr.length, 0, 0);
 
         return answer;
@@ -21,7 +20,7 @@ public class PRO068936_쿼드압축후개수세기 {
 
     private static void findZip(int split, int r, int c) {
         if (split == 1) {
-            count[arr[r][c]]++;
+            answer[arr[r][c]]++;
             return;
         }
         for (int i = 0; i < split; i += (split / 2)) {
@@ -41,7 +40,7 @@ public class PRO068936_쿼드압축후개수세기 {
         }
 
         if (canZip) {
-            count[arr[r][c]] -= 3;
+            answer[arr[r][c]] -= 3;
         }
     }
 }
