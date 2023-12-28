@@ -3,7 +3,7 @@ import java.util.*;
 public class PRO012946_하노이의탑 {
     private static List<int[]> answer;
     public static void main(String[] args) {
-        System.out.println(Arrays.toString(solution(3)));
+        System.out.println(Arrays.deepToString(solution(3)));
     }
 
     public static int[][] solution(int n) {
