@@ -17,28 +17,28 @@
 |087389|나머지가 1이 되는 수 찾기|<p>$\bf{\color{#1FBBFF}Lv. 1}$</p>|Done|
 
 ### 🞷 Level 2
-|문제 번호|문제 이름|난이도|풀이 여부|
-|:-:|:-:|:-:|:-:|
-|012909|올바른 괄호|<p>$\bf{\color{#48C94D}Lv. 2}$</p>|Done|
-|012911|다음 큰 숫자|<p>$\bf{\color{#48C94D}Lv. 2}$</p>|Done|
-|012914|멀리 뛰기|<p>$\bf{\color{#48C94D}Lv. 2}$</p>|Done|
-|012924|숫자의 표현|<p>$\bf{\color{#48C94D}Lv. 2}$</p>|Done|
-|012939|최댓값과 최솟값|<p>$\bf{\color{#48C94D}Lv. 2}$</p>|Done|
-|012941|최솟값 만들기|<p>$\bf{\color{#48C94D}Lv. 2}$</p>|Done|
-|012945|피보나치 수|<p>$\bf{\color{#48C94D}Lv. 2}$</p>|Done|
-|012946|하노이의 탑|<p>$\bf{\color{#48C94D}Lv. 2}$</p>|Done|
-|012946|하노이의 탑|<p>$\bf{\color{#48C94D}Lv. 2}$</p>|Done|
-|012951|JadenCase 문자열 만들기|<p>$\bf{\color{#48C94D}Lv. 2}$</p>|Done|
-|012953|N개의 최소공배수|<p>$\bf{\color{#48C94D}Lv. 2}$</p>|Done|
-|012973|짝지어 제거하기|<p>$\bf{\color{#48C94D}Lv. 2}$</p>|Done|
-|012980|점프와 순간 이동|<p>$\bf{\color{#48C94D}Lv. 2}$</p>|Done|
-|012981|영어 끝말잇기|<p>$\bf{\color{#48C94D}Lv. 2}$</p>|Done|
-|012985|예상 대진표|<p>$\bf{\color{#48C94D}Lv. 2}$</p>|Done|
-|042842|카펫|<p>$\bf{\color{#48C94D}Lv. 2}$</p>|Done|
-|042885|구명보트|<p>$\bf{\color{#48C94D}Lv. 2}$</p>|Done|
-|068936|쿼드압축 후 개수 세기|<p>$\bf{\color{#48C94D}Lv. 2}$</p>|Done|
-|070129|이진 변환 반복하기|<p>$\bf{\color{#48C94D}Lv. 2}$</p>|Done|
-|138476|귤 고르기|<p>$\bf{\color{#48C94D}Lv. 2}$</p>|Done|
+| 문제 번호  |      문제 이름      |난이도|풀이 여부|
+|:------:|:---------------:|:-:|:-:|
+| 012909 |     올바른 괄호      |<p>$\bf{\color{#48C94D}Lv. 2}$</p>|Done|
+| 012911 |     다음 큰 숫자     |<p>$\bf{\color{#48C94D}Lv. 2}$</p>|Done|
+| 012914 |      멀리 뛰기      |<p>$\bf{\color{#48C94D}Lv. 2}$</p>|Done|
+| 012924 |     숫자의 표현      |<p>$\bf{\color{#48C94D}Lv. 2}$</p>|Done|
+| 012939 |    최댓값과 최솟값     |<p>$\bf{\color{#48C94D}Lv. 2}$</p>|Done|
+| 012941 |     최솟값 만들기     |<p>$\bf{\color{#48C94D}Lv. 2}$</p>|Done|
+| 012945 |     피보나치 수      |<p>$\bf{\color{#48C94D}Lv. 2}$</p>|Done|
+| 012946 |     하노이의 탑      |<p>$\bf{\color{#48C94D}Lv. 2}$</p>|Done|
+| 012951 |JadenCase 문자열 만들기|<p>$\bf{\color{#48C94D}Lv. 2}$</p>|Done|
+| 012953 |    N개의 최소공배수    |<p>$\bf{\color{#48C94D}Lv. 2}$</p>|Done|
+| 012973 |    짝지어 제거하기     |<p>$\bf{\color{#48C94D}Lv. 2}$</p>|Done|
+| 012980 |    점프와 순간 이동    |<p>$\bf{\color{#48C94D}Lv. 2}$</p>|Done|
+| 012981 |     영어 끝말잇기     |<p>$\bf{\color{#48C94D}Lv. 2}$</p>|Done|
+| 012985 |     예상 대진표      |<p>$\bf{\color{#48C94D}Lv. 2}$</p>|Done|
+| 042842 |       카펫        |<p>$\bf{\color{#48C94D}Lv. 2}$</p>|Done|
+| 042885 |      구명보트       |<p>$\bf{\color{#48C94D}Lv. 2}$</p>|Done|
+| 068936 |  쿼드압축 후 개수 세기   |<p>$\bf{\color{#48C94D}Lv. 2}$</p>|Done|
+| 070129 |   이진 변환 반복하기    |<p>$\bf{\color{#48C94D}Lv. 2}$</p>|Done|
+| 131701 | 연속 부분 수열 합의 개수  |<p>$\bf{\color{#48C94D}Lv. 2}$</p>|Done|
+| 138476 |      귤 고르기      |<p>$\bf{\color{#48C94D}Lv. 2}$</p>|Done|
 
 ### 🞷 Level 3
 |문제 번호|문제 이름|난이도|풀이 여부|
